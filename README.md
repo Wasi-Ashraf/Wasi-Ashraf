@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:145DA0,100:38BDF8&height=230&section=header&text=WASI%20ASHRAF&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=60&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=WASI%20ASHRAF&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=60&descSize=19" width="100%"/>
 
-# Hi, I'm Wasi Ashraf
-
-### Full Stack Web Developer | Pakistan
-
-Building modern web applications and turning ideas into reality.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer+in+Progress;Building+Modern+Web+Applications" />
 
 </div>
 
@@ -14,13 +10,26 @@ Building modern web applications and turning ideas into reality.
 
 ## ABOUT ME
 
-I am an aspiring Full Stack Web Developer from Pakistan, passionate about creating modern, responsive, and user-friendly web applications.
+<table>
+<tr>
+<td width="60%" valign="center">
 
-* Currently learning Full Stack Web Development.
-* Working on EstateX – Real Estate & Rental Platform.
-* Interested in Web Development and Software Engineering.
-* Exploring modern technologies and development tools.
-* Focused on building real-world projects.
+I am an aspiring Full Stack Web Developer from Pakistan, passionate about building modern websites and real-world applications.
+
+* Learning Full Stack Web Development.
+* Currently working on EstateX.
+* Interested in Software Engineering.
+* Exploring modern web technologies.
+* Focused on improving my development skills.
+
+</td>
+<td width="40%" align="center">
+
+<img src="./assets/coder.png" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -30,20 +39,19 @@ I am an aspiring Full Stack Web Developer from Pakistan, passionate about creati
 <tr>
 <td width="60%" valign="top">
 
-### Programming Languages
+### PROGRAMMING LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python" />
 
-### Frameworks & Libraries
+### FRAMEWORKS & LIBRARIES
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
 
-### Database & Development Tools
+### DATABASE & DEVELOPMENT TOOLS
 
 <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,figma" />
 
 </td>
-
 <td width="40%" align="center" valign="center">
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%"/>
@@ -56,19 +64,19 @@ I am an aspiring Full Stack Web Developer from Pakistan, passionate about creati
 
 ## FEATURED PROJECTS
 
-### EstateX — Real Estate & Rental Platform
+### ESTATEX — REAL ESTATE & RENTAL PLATFORM
 
-A modern real estate platform where users can explore, buy, rent, and list different types of properties.
+A modern real estate platform where users can explore, buy, rent and list different types of properties.
 
 **Technologies:** MongoDB, Express.js, React.js, Node.js
 
-### Personal Portfolio
+### PERSONAL PORTFOLIO
 
-A personal website showcasing my skills, projects, and development journey.
+A personal website showcasing my skills, projects and development journey.
 
 **Technologies:** HTML, CSS, JavaScript
 
-### Quiz System
+### QUIZ SYSTEM
 
 An interactive quiz application designed to test knowledge through questions and answers.
 
@@ -80,13 +88,13 @@ An interactive quiz application designed to test knowledge through questions and
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wasi-Ashraf&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasi-Ashraf&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Wasi-Ashraf&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -96,7 +104,7 @@ An interactive quiz application designed to test knowledge through questions and
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wasi-Ashraf&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -106,18 +114,22 @@ An interactive quiz application designed to test knowledge through questions and
 
 <div align="center">
 
-<a href="https://github.com/Wasi-Ashraf">
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### CODE. LEARN. BUILD. REPEAT.
+CODE. LEARN. BUILD. REPEAT.
 
-**Thanks for visiting my profile.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
 
 </div>
