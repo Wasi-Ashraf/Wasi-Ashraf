@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./a_sleek_dark_futuristic_github_style_profile_head.png" width="100%" alt="Wasi Ashraf Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:145DA0,100:38BDF8&height=230&section=header&text=WASI%20ASHRAF&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=60&descSize=19" width="100%"/>
 
-<br><br>
+<br>
 
 # Hi, I'm Wasi Ashraf
 
