@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="./assets/github-banner.png" width="100%" alt="Wasi Ashraf GitHub Banner">
-
-</div>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=WASI%20ASHRAF&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=60&descSize=19" width="100%"/>
