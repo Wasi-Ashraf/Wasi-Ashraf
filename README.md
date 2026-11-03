@@ -1,109 +1,97 @@
-<!-- PROFILE HEADER -->
-
 <div align="center">
 
-# 👋 Hi, I'm Wasi Ashraf
+# WASI ASHRAF
 
-### 💻 Aspiring Full Stack Web Developer | DAE Computer Information Technology
+### FULL STACK WEB DEVELOPER
 
-I love building websites, exploring new technologies, and turning ideas into real-world projects.
+**Building Modern Websites | Learning New Technologies | Creating Real-World Projects**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Web+Development+Enthusiast;MERN+Stack+Learner;Building+Projects+with+Passion;Always+Learning+New+Things" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=0e75b6\&style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer+in+Progress;Turning+Ideas+Into+Reality" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ABOUT ME
 
-* 👨‍💻 Aspiring Web Developer from Pakistan.
-* 🎓 Computer Information Technology background.
-* 🌱 Currently learning Full Stack Web Development.
-* 💡 Interested in building modern and useful web applications.
-* 🔭 Currently working on **EstateX – Real Estate & Rental Platform**.
-* 🎯 Goal: Become a professional Full Stack Developer.
-* ⚡ I believe in learning by building real-world projects.
+I am an aspiring Full Stack Web Developer from Pakistan, passionate about creating modern, responsive, and user-friendly web applications.
+
+* Currently learning Full Stack Web Development.
+* Working on EstateX – Real Estate & Rental Platform.
+* Interested in Web Development and Software Engineering.
+* Always exploring new technologies and improving my skills.
+* My goal is to become a professional Software Developer.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## TECH STACK & TOOLS
 
-### 💻 Programming Languages
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<p>
+### Languages
+
 <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python" />
-</p>
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 
-<p>
-<img src="https://skillicons.dev/icons?i=bootstrap,react,nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
 
-### 🗄️ Database & Tools
+### Database & Development Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,figma" />
-</p>
+
+</td>
+<td width="40%" align="center" valign="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Featured Projects
+## FEATURED PROJECTS
 
-### 🏡 EstateX – Real Estate & Rental Platform
+### EstateX — Real Estate & Rental Platform
 
-A modern platform where users can explore, buy, rent, and list different types of properties.
+A modern real estate platform where users can explore, buy, rent, and list properties.
 
-**Features:**
+**Technologies:** MongoDB, Express.js, React.js, Node.js
 
-* Property buying and renting.
-* Houses, apartments, shops and agricultural land.
-* Property listing and management.
-* User and seller accounts.
+### Personal Portfolio
 
-**Tech:** MERN Stack | MongoDB | Express.js | React | Node.js
+A personal website to showcase my skills, projects, and development journey.
 
-### 🌐 Personal Portfolio
+**Technologies:** HTML, CSS, JavaScript
 
-A personal portfolio website showcasing my skills, projects and development journey.
+### Quiz System
 
-### 📝 Quiz System
+An interactive quiz application for testing knowledge through questions and answers.
 
-A quiz application designed to test knowledge through interactive questions and answers.
+**Technologies:** HTML, CSS, JavaScript
 
 ---
 
-## 📊 GitHub Statistics
+## GITHUB STATISTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🤝 Connect With Me
+## CONNECT WITH ME
 
 <div align="center">
 
@@ -115,20 +103,14 @@ A quiz application designed to test knowledge through interactive questions and 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </div>
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for Visiting My Profile!
+### CODE • LEARN • BUILD • REPEAT
 
-**"Code. Learn. Build. Repeat."**
-
-⭐ From [Wasi Ashraf](https://github.com/YOUR_USERNAME)
+**Thanks for visiting my profile.**
 
 </div>
