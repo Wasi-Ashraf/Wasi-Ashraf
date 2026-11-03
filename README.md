@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="./assets/github-banner.png" width="100%" alt="Wasi Ashraf GitHub Banner">
+
+</div>
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=WASI%20ASHRAF&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=60&descSize=19" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer+in+Progress;Building+Modern+Web+Applications" />
