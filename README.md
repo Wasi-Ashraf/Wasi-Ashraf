@@ -23,11 +23,7 @@ I am an aspiring Full Stack Web Developer from Pakistan, passionate about buildi
 * Focused on improving my development skills.
 
 </td>
-<td width="40%" align="center">
 
-<!-- <img src="./assets/coder.png" width="100%"/> -->
-
-</td>
 </tr>
 </table>
 
