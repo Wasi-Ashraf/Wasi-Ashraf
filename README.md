@@ -1,123 +1,139 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:075985,100:2563EB&height=230&section=header&text=WASI%20ASHRAF&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=60&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:075985,100:2563EB&height=230&section=header&text=WASI%20ASHRAF&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality" />
+<h1>Hi, I'm Wasi Ashraf</h1>
 
-<br/>
+<h3>Full Stack Developer | MERN Stack</h3>
+
+<p>
+Building modern, responsive and user-friendly web applications.
+</p>
 
 <a href="https://github.com/Wasi-Ashraf">
-<img src="https://img.shields.io/badge/GitHub-Wasi--Ashraf-0D1117?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/Wasi-Ashraf?tab=followers">
-<img src="https://img.shields.io/github/followers/Wasi-Ashraf?style=for-the-badge&color=2563EB&logo=github"/>
-</a>
-
-</div>
-
----
-
-## 👨‍💻 ABOUT ME
-
-I am a passionate Full Stack Web Developer from Pakistan, interested in building modern, responsive, and user-friendly web applications.
-
-- Currently developing my Full Stack Web Development skills.
-- Exploring the MERN Stack ecosystem.
-- Working on real-world development projects.
-- Interested in Software Engineering and problem-solving.
-- Always learning new technologies and improving my skills.
-
-**My Goal:** To become a skilled Full Stack Engineer and build meaningful software solutions.
-
----
-
-## 🛠️ TECH STACK & TOOLS
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,python"/>
-</p>
-
-### ⚛️ Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap"/>
-</p>
-
-### 🗄️ Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,figma"/>
-</p>
-
----
-
-## 🚀 FEATURED PROJECTS
-
-### 🏡 EstateX – Real Estate & Rental Platform
-
-A modern real estate platform designed to make buying, selling, and renting properties easier.
-
-**Tech Stack:** MongoDB | Express.js | React.js | Node.js
-
-### 🏦 Bank Management System
-
-A C++ based banking application featuring customer account management, deposits, withdrawals, fund transfers, and loan management.
-
-**Tech Stack:** C++
-
-### 💳 EasyPaisa – Digital Wallet Simulation
-
-A C++ based digital wallet simulation demonstrating basic payment operations and account management.
-
-**Tech Stack:** C++
-
-### 🌐 Personal Portfolio
-
-A responsive personal portfolio website showcasing my skills, projects, and development journey.
-
-**Tech Stack:** HTML | CSS | JavaScript
-
----
-
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wasi-Ashraf&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasi-Ashraf&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Wasi-Ashraf&theme=tokyonight&hide_border=true&ring=38BDF8&fire=2563EB&currStreakLabel=38BDF8"/>
-
-</div>
-
----
-
-## 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wasi-Ashraf&theme=tokyo-night&hide_border=true&area=true&color=38BDF8&line=2563EB" width="100%"/>
-
-</div>
-
----
-
-## 🤝 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/Wasi-Ashraf">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+</div>
+
+---
+
+## ABOUT ME
+
+I am an aspiring Full Stack Web Developer from Pakistan, passionate about building modern and responsive web applications.
+
+- Currently working on **EstateX - Real Estate & Rental Platform**
+- Learning and working with the **MERN Stack**
+- Interested in Software Development and UI/UX Design
+- Exploring modern web technologies and development tools
+- Open to internship opportunities and collaboration
+
+---
+
+## TECH STACK & TOOLS
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</td>
+
+<td width="40%" valign="center">
+
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## FEATURED PROJECTS
+
+### 1. EstateX - Real Estate & Rental Platform
+
+A modern real estate platform designed to help users explore, buy, sell and rent different types of properties.
+
+**Technologies:** MongoDB, Express.js, React.js, Node.js
+
+**Status:** Currently in Development
+
+### 2. Bank Management System
+
+A C++ based banking application designed to manage customer accounts and perform basic banking operations.
+
+**Technology:** C++
+
+### 3. EasyPaisa Digital Wallet
+
+A C++ based digital wallet simulation project demonstrating basic payment operations and account management.
+
+**Technology:** C++
+
+### 4. Personal Portfolio Website
+
+A personal portfolio website to showcase my skills, projects and development journey.
+
+**Technologies:** HTML, CSS, JavaScript
+
+---
+
+## GITHUB STATISTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wasi-Ashraf&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasi-Ashraf&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Wasi-Ashraf&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wasi-Ashraf&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/Wasi-Ashraf">
+<img src="https://img.shields.io/badge/GitHub-Wasi--Ashraf-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 </div>
@@ -126,12 +142,8 @@ A responsive personal portfolio website showcasing my skills, projects, and deve
 
 <div align="center">
 
-### 💡 DEVELOPER MINDSET
+### Building Skills. Creating Solutions. Growing Every Day.
 
-**Learn. Build. Improve. Repeat.**
-
-*Always exploring. Always creating. Always growing.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:075985,100:2563EB&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:075985,100:2563EB&height=100&section=footer" width="100%" />
 
 </div>
