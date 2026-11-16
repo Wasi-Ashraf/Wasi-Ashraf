@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=FULL+STACK+DEVELOPER;MERN+STACK+DEVELOPER&loop=0" />
 
-</div>
+<div align="center">
 <h3>Full Stack Developer | MERN Stack</h3>
 
 <p>
