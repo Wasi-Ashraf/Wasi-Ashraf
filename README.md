@@ -22,51 +22,43 @@ Building modern, responsive and user-friendly web applications.
 
 ---
 
-<h2 align="center">ABOUT ME</h2>
+## ABOUT ME
 
-<div align="center">
-
-<p>
 I am an aspiring Full Stack Web Developer from Pakistan, passionate about building modern and responsive web applications.
-</p>
 
-<p>
-Currently working on <b>EstateX - Real Estate & Rental Platform</b><br>
-Learning and working with the <b>MERN Stack</b><br>
-Interested in Software Development and UI/UX Design<br>
-Exploring modern web technologies and development tools<br>
-Open to internship opportunities and collaboration
-</p>
-
-</div>
+- Currently working on **EstateX - Real Estate & Rental Platform**
+- Learning and working with the **MERN Stack**
+- Interested in Software Development and UI/UX Design
+- Exploring modern web technologies and development tools
+- Open to internship opportunities and collaboration
 
 ---
 
-<h2 align="center">TECH STACK & TOOLS</h2>
+## TECH STACK & TOOLS
 
 <table>
 <tr>
-<td width="60%" align="center" valign="middle">
+<td width="60%" valign="top">
 
-<h3>Frontend Development</h3>
+### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
 
-<h3>Backend Development</h3>
+### Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
-<h3>Programming Languages</h3>
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,python" />
 
-<h3>Tools & Platforms</h3>
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="40%" valign="center">
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" />
 
@@ -76,55 +68,37 @@ Open to internship opportunities and collaboration
 
 ---
 
-<h2 align="center">FEATURED PROJECTS</h2>
+## FEATURED PROJECTS
 
-<div align="center">
+### 1. EstateX - Real Estate & Rental Platform
 
-<h3>1. EstateX - Real Estate & Rental Platform</h3>
-
-<p>
 A modern real estate platform designed to help users explore, buy, sell and rent different types of properties.
-</p>
 
-<p><b>Technologies:</b> MongoDB, Express.js, React.js, Node.js</p>
+**Technologies:** MongoDB, Express.js, React.js, Node.js
 
-<p><b>Status:</b> Currently in Development</p>
+**Status:** Currently in Development
 
-<br>
+### 2. Bank Management System
 
-<h3>2. Bank Management System</h3>
-
-<p>
 A C++ based banking application designed to manage customer accounts and perform basic banking operations.
-</p>
 
-<p><b>Technology:</b> C++</p>
+**Technology:** C++
 
-<br>
+### 3. EasyPaisa Digital Wallet
 
-<h3>3. EasyPaisa Digital Wallet</h3>
-
-<p>
 A C++ based digital wallet simulation project demonstrating basic payment operations and account management.
-</p>
 
-<p><b>Technology:</b> C++</p>
+**Technology:** C++
 
-<br>
+### 4. Personal Portfolio Website
 
-<h3>4. Personal Portfolio Website</h3>
-
-<p>
 A personal portfolio website to showcase my skills, projects and development journey.
-</p>
 
-<p><b>Technologies:</b> HTML, CSS, JavaScript</p>
-
-</div>
+**Technologies:** HTML, CSS, JavaScript
 
 ---
 
-<h2 align="center">GITHUB STATISTICS</h2>
+## GITHUB STATISTICS
 
 <div align="center">
 
@@ -140,7 +114,7 @@ A personal portfolio website to showcase my skills, projects and development jou
 
 ---
 
-<h2 align="center">CONTRIBUTION ACTIVITY</h2>
+## CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -150,7 +124,7 @@ A personal portfolio website to showcase my skills, projects and development jou
 
 ---
 
-<h2 align="center">CONNECT WITH ME</h2>
+## CONNECT WITH ME
 
 <div align="center">
 
@@ -168,7 +142,7 @@ A personal portfolio website to showcase my skills, projects and development jou
 
 <div align="center">
 
-<h3>Building Skills. Creating Solutions. Growing Every Day.</h3>
+### Building Skills. Creating Solutions. Growing Every Day.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:075985,100:2563EB&height=100&section=footer" width="100%" />
 
