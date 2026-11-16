@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:075985,100:2563EB&height=230&section=header&text=WASI%20ASHRAF&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:075985,100:2563EB&height=230&section=header&text=WASI%20ASHRAF&fontSize=55&fontColor=ffffff&animation=blinking&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=58&descSize=18" width="100%" />
 <h1>Hi, I'm Wasi Ashraf</h1>
 
 <h3>Full Stack Developer | MERN Stack</h3>
