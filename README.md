@@ -20,7 +20,7 @@ Building modern, responsive and user-friendly web applications.
 </a>
 
 </div>
-
+<div>
 ---
 
 ## ABOUT ME
@@ -147,4 +147,5 @@ A personal portfolio website to showcase my skills, projects and development jou
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:075985,100:2563EB&height=100&section=footer" width="100%" />
 
+</div>
 </div>
