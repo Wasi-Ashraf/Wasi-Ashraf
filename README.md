@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=50&duration=4000&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=650&height=100&lines=WASI+ASHRAF&loop=1" />
 
-<h3>FULL STACK WEB DEVELOPER</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=FULL+STACK+DEVELOPER;MERN+STACK+DEVELOPER&loop=0" />
 
 </div>
 <h3>Full Stack Developer | MERN Stack</h3>
