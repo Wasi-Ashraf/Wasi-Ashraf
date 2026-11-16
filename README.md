@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:075985,100:2563EB&height=230&section=header&text=WASI%20ASHRAF&fontSize=55&fontColor=ffffff&animation=blinking&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=58&descSize=18" width="100%" />
-<h1>Hi, I'm Wasi Ashraf</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=50&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=100&lines=WASI+ASHRAF" />
 
+<h3>FULL STACK WEB DEVELOPER</h3>
+
+</div>
 <h3>Full Stack Developer | MERN Stack</h3>
 
 <p>
